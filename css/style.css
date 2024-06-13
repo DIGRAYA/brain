@@ -1,0 +1,98 @@
+/*about us*/
+ h3{
+                color: burlywood;
+                font-size: 20px;
+                font-family: Chandas;
+                text-align: center;
+                text-decoration: underline;
+                margin-top: 50px;
+
+            }
+ h5 {
+    margin-bottom: 30px;
+    text-align:left;
+    font-size: 24px;
+    color: darkkhaki;
+}
+p{
+    color: peru;
+    text-align: justify;
+    font-size: 23px;
+    font-family: Samanata;
+    font-style: normal;
+
+}
+a{
+    margin: 20px;
+}
+button{
+    padding: 10px;
+    background-color: darkkhaki;
+    border-radius: 12px;
+}
+div{
+    background-color: beige;
+    width: 80%;
+    margin: auto;
+}
+
+.one{
+    background-color: rgba(255, 228, 196, 0.42);
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+    border: 20px ;
+}
+.two{
+    background-color: beige;
+    width: 80%;
+    margin: auto;
+}
+.three{
+    background-color: lavenderblush;
+    width: 80%;
+    margin: auto;
+    font-family: Chandas;
+}
+/*contactus*/
+        #head_one{
+            background-color: darkgrey;
+            /*width: 60%;*/
+            margin: auto;
+            /*padding: 70px;*/
+        }
+        #head_two{
+            background-color: azure;
+            /*width: 70%;*/
+            margin: auto;
+            /*padding: 70px;*/
+        }
+        #head-three{
+            background-color:lemonchiffon;
+            /*width:70px;*/
+            margin: auto;
+            /*padding:70px;*/
+        }
+        #container{
+            width: 100%;
+            overflow: auto;
+            background-color: darkgrey;
+
+        }
+        #container div{
+            float: left;
+            width: 30%;
+        }
+        table, th, td{
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+         th, td{
+                background-color: slategray;}
+form{
+background-color: beige;
+width: 340px;
+    /*text-align: center;*/
+    padding: 20px;
+    border-radius: 20px;
+}
